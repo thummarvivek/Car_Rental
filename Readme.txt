@@ -11,11 +11,11 @@ Import database carrental.sql (available SQL File Folder inside zip package)
 For User
 Open Your browser put inside browser “http://localhost/carrental”
 Login Details for user:
-Username : test@gmail.com
-Password: Test@123
+Username : vickypatel1023@gmail.com
+Password: vivek@1023
 
 For Admin Panel
 Open Your browser put inside browser “http://localhost/carrental/admin”
 Login Details for admin :
-Username: admin
-Password: Test@12345
+Username: vivek
+Password: Vivek@123
